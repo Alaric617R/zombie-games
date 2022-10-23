@@ -21,7 +21,7 @@
 # TODO (begin) #
 #######################
 # Change 'youruniqname' to match your UM uniqname (no quote marks).
-UNIQNAME    = alaricyx
+UNIQNAME    = TBD
 
 # Change the right hand side of the identifier to match the project identifier
 # given in the project or lab specification.
@@ -78,7 +78,7 @@ PERF_FILE = perf.data*
 # Default Flags (we prefer -std=c++17 but Mac/Xcode/Clang doesn't support)
 # WARNING: Adding flags like _GLIBCXX_DEBUG or -fsanitize
 # may prevent your project from working properly!
-CXXFLAGS = -std=c++1z -Wconversion -Wall -Werror -Wextra -pedantic 
+CXXFLAGS = -std=c++1z
 
 # make release - will compile "all" with $(CXXFLAGS) and the -O3 flag
 #                also defines NDEBUG so that asserts will not check
