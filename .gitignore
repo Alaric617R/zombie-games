@@ -1,0 +1,8 @@
+/cmake*
+.o
+*.tar*
+.vscode
+.idea*
+*.txt
+.idea
+.DS_Store
