@@ -1,4 +1,4 @@
-# Zombie-Game Project 2 
+# Zombie-Game UM EECS 281 Algorithm and Data Structure Project 2 
 ---
 Usage:
 
